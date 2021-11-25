@@ -15,10 +15,6 @@
 ## Installation
   run npm install to install the dependancies. Then run node server to start it on your local host
 
-## Usage
-  ![screenshots](./assets/budget-screenshot.jpg)
-
-  ---
 
 ## Deployed Link
   https://serene-sea-47708.herokuapp.com/
